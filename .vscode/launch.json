@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PasswordresetApiApplication<passwordreset-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.passwordreset.passwordresetapi.PasswordresetApiApplication",
+            "projectName": "passwordreset-api",
+            "args": ""
+        }
+    ]
+}
